@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cory Roberts</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            .flex {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                margin: 0 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Cory Roberts</h1>
+        </header>
+        <nav>
+            <a href="/index.html">Home</a>
+            <a href="/resume.html">Resume</a>
+        </nav>
+        <section class="flex">
+            <div>
+                <h3>Who am I?</h3>
+                <span>My name is Cory Roberts, I have been using the web for more than two decades. I started using the web primarily to play games and trade TCG cards online. I eventually stumbled upon a message board service known as "InvisionFree" and that is where I started my web development journey. I was always fascinated by what you can do with a few lines of code. I gradually started learning HTML and CSS to build the basics of webpages. Later on, I started becoming aquainted with JavaScript & jQuery, and this is where my passion comes in.</span>
+            </div>
+            <div>
+                <h3>What can I do?</h3>
+                <span>I can build webpages for you with a combination of HTML, CSS, and JavaScript. I dedicate myself to the front-end aspect of web building at this time and not necessarily the back-end or web design. I can build the layout and structure of pages for you and add dynamic touches to them.</span>
+            </div>
+            <div>
+                <h3>How do I do it?</h3>
+                <span></span>
+            </div>
+        </section>
+        <footer>
+            &copy; Cory Roberts 2024
+        </footer>
+    </body>
+</html>
